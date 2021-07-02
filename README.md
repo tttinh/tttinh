@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tttinh.
+- 👀 I’m interested in problem solving, computer science, software development, and information technology.
+- 🌱 I’m currently learning some frontend stuff (html, css, javascript, flutter, dart,...).
+- 💞️ I’m looking to collaborate on everything that help me improve.
+- 📫 How to reach me tinhtrantrung.vn@gmail.com.
